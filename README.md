@@ -1,4 +1,3 @@
-# -Faster-R-CNN-object-detection-pipeline
 # Faster R-CNN Hyperparameter Optimization & Transfer Learning
 
 ## Overview
