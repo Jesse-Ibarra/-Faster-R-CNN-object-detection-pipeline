@@ -2,7 +2,8 @@
 # Faster R-CNN Hyperparameter Optimization & Transfer Learning
 
 ## Overview
-This project implements and optimizes a Faster R-CNN object detection model using PyTorch. The goal was to improve detection performance on the COCO MiniTrain dataset and evaluate how well the model generalizes to a different domain (drone imagery).
+This project implements and optimizes a Faster R-CNN object detection model using PyTorch. The goal was to improve detection performance on the COCO MiniTrain dataset and evaluate how well the model generalizes to a different domain <img width="545" height="330" alt="image" src="https://github.com/user-attachments/assets/4efb136c-f396-40d3-8f5b-1f8f867175dd" />
+.
 
 The project focuses on applying practical machine learning techniques including hyperparameter optimization, experiment tracking, and transfer learning.
 
@@ -114,11 +115,10 @@ Optimized parameters included:
 
 ---
 
+Link to W&B project: https://wandb.ai/jli43-new-jersey-institute-of-technology/faster-rcnn-optuna-coco-minitrain?nw=nwuserjli43
+
 ## How to Run
 
 1. Install dependencies:
 ```bash
 pip install torch torchvision optuna wandb pycocotools
-
-
-Link to W&B project: https://wandb.ai/jli43-new-jersey-institute-of-technology/faster-rcnn-optuna-coco-minitrain?nw=nwuserjli43
